@@ -18,6 +18,10 @@ Return
 Run Firefox
 Return
 
+#m::
+Run C:\Users\mattias.bengtsson\Documents\AutoHotKey\Links\Mail
+Return
+
 #1::switchDesktopByNumber(1)
 #2::switchDesktopByNumber(2)
 #3::switchDesktopByNumber(3)
