@@ -14,6 +14,10 @@ Return
 Run C:\Program Files\emacs\bin\runemacs.exe
 Return
 
+#v::
+Run C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Visual Studio 2015
+Return
+
 #w::
 Run Firefox
 Return
