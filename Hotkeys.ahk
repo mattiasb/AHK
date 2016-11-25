@@ -26,6 +26,8 @@ Return
 Run C:\Users\mattias.bengtsson\Documents\AutoHotKey\Links\Mail
 Return
 
+F4::Send {Alt Down}{F4}{Alt Up}
+
 #1::switchDesktopByNumber(1)
 #2::switchDesktopByNumber(2)
 #3::switchDesktopByNumber(3)
