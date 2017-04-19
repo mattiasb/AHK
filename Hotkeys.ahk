@@ -11,7 +11,7 @@ Run Explorer
 Return
 
 #s::
-Run C:\Program Files\emacs\bin\runemacs.exe
+Run C:\Users\mattias.bengtsson\Documents\Code\github.com\mattiasb\AutoHotKey\Links\Emacs25
 Return
 
 #v::
@@ -23,7 +23,7 @@ Run Firefox
 Return
 
 #m::
-Run C:\Users\mattias.bengtsson\Documents\AutoHotKey\Links\Mail
+Run C:\Users\mattias.bengtsson\Documents\Code\github.com\mattiasb\AutoHotKey\Links\Mail
 Return
 
 F4::Send {Alt Down}{F4}{Alt Up}
