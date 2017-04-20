@@ -3,7 +3,7 @@ Run cmd /k "cd C:\Users\mattias.bengtsson\"
 Return
 
 #e::
-Run "C:\Program Files\Git\git-bash.exe" --cd-to-home
+Run C:\Windows\System32\bash.exe ~
 Return
 
 #f::
