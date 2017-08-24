@@ -3,7 +3,7 @@ Run cmd /k "cd C:\Users\mattias.bengtsson\"
 Return
 
 #e::
-Run C:\Windows\System32\bash.exe ~
+Run C:\Users\mattias.bengtsson\Documents\Code\github.com\mattiasb\AutoHotKey\Links\GnomeTerminal
 Return
 
 #f::
@@ -19,7 +19,7 @@ Run C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Visual Studio 2015
 Return
 
 #w::
-Run Firefox
+Run "C:\Program Files (x86)\Google\Chrome\Application\chrome.exe"
 Return
 
 #m::
